@@ -32,4 +32,3 @@
   (spacemacs/setup-startup-hook)
   (require 'server)
   (unless (server-running-p) (server-start)))
-(load-theme 'deeper-blue t)
