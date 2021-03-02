@@ -30,7 +30,7 @@ selection.")
   "Timeout (seconds) when waiting for the second key of
 `auto-completion-complete-with-key-sequence'.")
 
-(defvar auto-completion-enable-snippets-in-popup nil
+(defvar auto-completion-enable-snippets-in-popup t
   "If non nil show snippets in the auto-completion popup.")
 
 (defvar auto-completion-enable-sort-by-usage nil
